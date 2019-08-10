@@ -8,7 +8,7 @@ Project-Code/examples/demo  (updated)
 
 Project-Code/examples/functions/golang/deathmatch (created)
 
-I do understand in terms of line of code it is less. But my understanding was the major part of the project was to understand these new technologies work and to learn the ability to use them.
+I do understand in terms of line of code it is less. But my understanding was the major part of the project was to understand how these new technologies works and to learn the ability to use them when needed.
 
 
 Project-Video:- https://www.youtube.com/watch?v=d38UetVeEH0
