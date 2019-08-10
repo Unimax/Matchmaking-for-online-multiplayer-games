@@ -1,4 +1,4 @@
-CSC562 : Final Project - Matchmaking for online multiplayer games using opem-match
+CSC562 : Final Project - Matchmaking for online multiplayer games using open-match
 
 Note Project-Code is a repo forked from open match: https://github.com/googleforgames/open-match/
 
@@ -12,4 +12,5 @@ I do understand in terms of line of code it is less. But my understanding was th
 
 
 Project-Video:- https://www.youtube.com/watch?v=d38UetVeEH0
+
 Literature-Review :- Literature-Review.md
