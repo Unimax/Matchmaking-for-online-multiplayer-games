@@ -1,4 +1,4 @@
-CSC562 : Final Project - Matchmaking for online multiplayer games using open-match
+# CSC562 : Final Project - Matchmaking for online multiplayer games using open-match
 
 Note Project-Code is a repo forked from open match: https://github.com/googleforgames/open-match/
 
